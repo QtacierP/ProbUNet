@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from keras.layers import *
 from keras.models import Model
 import tensorflow as tf

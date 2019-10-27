@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from option import args
 from data.common import get_dataloader
 from model.common import get_model
